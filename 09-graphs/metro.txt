@@ -1,0 +1,3 @@
+Red: Northgate, University, Central, Market Street, Harbour
+Blue: Airport, Park Lane, Central, Old Town, Stadium
+Green: University, Museum, Old Town, Riverside, Hospital
